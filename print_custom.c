@@ -9,7 +9,7 @@
  * @f: pointer to the struct flags that determines
  * if a flag is passed to _printf
  * Return: number of char printed
- */
+ */Lennon
 int print_bigS(va_list l, flags_t *f)
 {
 	int i, count = 0;
